@@ -1,0 +1,9 @@
+C:\Users\gabri\source\repos\arquitectura_4_capas_aspnet\DAL\bin\Debug\DAL.dll
+C:\Users\gabri\source\repos\arquitectura_4_capas_aspnet\DAL\bin\Debug\DAL.pdb
+C:\Users\gabri\source\repos\arquitectura_4_capas_aspnet\DAL\bin\Debug\BE.dll
+C:\Users\gabri\source\repos\arquitectura_4_capas_aspnet\DAL\bin\Debug\BE.pdb
+C:\Users\gabri\source\repos\arquitectura_4_capas_aspnet\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\arquitectura_4_capas_aspnet\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\arquitectura_4_capas_aspnet\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\gabri\source\repos\arquitectura_4_capas_aspnet\DAL\obj\Debug\DAL.dll
+C:\Users\gabri\source\repos\arquitectura_4_capas_aspnet\DAL\obj\Debug\DAL.pdb
